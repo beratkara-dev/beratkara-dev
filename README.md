@@ -50,4 +50,4 @@ I'm a 16-year-old developer based in Kocaeli, TR. I thrive at the intersection o
 ### 📫 Let's Team Up!
 
 [![Website](https://img.shields.io/badge/Website-Truva_Development-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://truvadevelopment.com.tr)
-[![Email](https://img.shields.io/badge/Email-Bana_Ulasin-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senin.epostan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Bana_Ulasin-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratra155@gmail.com@gmail.com)
